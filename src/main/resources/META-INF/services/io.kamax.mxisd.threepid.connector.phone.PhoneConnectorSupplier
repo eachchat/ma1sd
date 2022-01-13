@@ -1,1 +1,2 @@
 io.kamax.mxisd.threepid.connector.phone.BuiltInPhoneConnectorSupplier
+io.kamax.mxisd.threepid.connector.phone.JGPhoneConnectorSupplier

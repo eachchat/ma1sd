@@ -1,1 +1,2 @@
 io.kamax.mxisd.threepid.notification.BuiltInNotificationHandlerSupplier
+io.kamax.mxisd.threepid.notification.JGNotificationHandlerSupplier
